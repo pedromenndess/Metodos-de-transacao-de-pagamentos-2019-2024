@@ -9,7 +9,8 @@ Tecnologias utilizadas: **Power BI**
 A base utilizada está em formato csv e foi obtida no Kaggle, contendo registros históricos de transações financeiras entre os anos de 2019 a 2024, categorizadas por tipo de pagamento: TED, PIX, Boleto, DOC, Cheque e TEC.
 
 ## Resultados
-![image](https://github.com/user-attachments/assets/0cccddba-c8f1-4a00-b598-92970accd5dd)
+![image](https://github.com/user-attachments/assets/f79d5f56-0eb1-4233-abb4-2acfb243d840)
+
 
 - TED se manteve como o principal método em termos de transação de valores, representando R$ 17,7 bilhões, ou seja, 73,2% do total dos anos.
 - O PIX, mesmo sendo mais recente, já corresponde a R$ 3,7 bilhões (15,2%) — mostrando rápida adesão desde sua implementação, principalmente pela facilidade e rapidez na transação de pessoas físicas e jurídicas.
